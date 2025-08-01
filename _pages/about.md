@@ -13,7 +13,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 - &nbsp; <span class="badge">FSE'25 Industry</span> &nbsp;**AEGIS: An Agent-based Framework for Bug Reproduction from Issue Descriptions**
 
-  <span style="font-size:13px;"> <strong><em>Xinchen Wang</em></strong>, Pengfei Gao, Xiangxin Meng, Chao Peng, Ruida Hu, Yun Lin, Cuiyun Gao*.</span>
+  <span style="font-size:14px;"> <strong><em>Xinchen Wang</em></strong>, Pengfei Gao, Xiangxin Meng, Chao Peng, Ruida Hu, Yun Lin, Cuiyun Gao*.</span>
 
   <span style="font-size:14px;"> *The ACM International Conference on the Foundations of Software Engineering (FSE), Industry Track.* </span>
 
@@ -22,7 +22,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 - &nbsp; <span class="badge">ICSE'24 Industry</span> &nbsp;**ReposVul: A Repository-Level High-Quality Vulnerability Dataset**
 
-  <span style="font-size:13px;"> <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, Yujia Chen, Qing Liao.</span>
+  <span style="font-size:14px;"> <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, Yujia Chen, Qing Liao.</span>
 
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track.* </span>
 
@@ -32,7 +32,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 - &nbsp; <span class="badge">ASE'23</span> &nbsp;**When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection**
 
-  <span style="font-size:13px;"> Xin-Cheng Wen, <strong><em>Xinchen Wang</em></strong>, Cuiyun Gao*, Shaohua Wang, Yang Liu, Zhaoquan Gu.</span>
+  <span style="font-size:14px;"> Xin-Cheng Wen, <strong><em>Xinchen Wang</em></strong>, Cuiyun Gao*, Shaohua Wang, Yang Liu, Zhaoquan Gu.</span>
 
   <span style="font-size:14px;"> *IEEE/ACM International Conference on Automated Software Engineering.* </span>
 
