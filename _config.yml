@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xinchen Wang / Site Title"
+title                    : "Xinchen Wang 王欣辰"
 title_separator          : "-"
 name                     : &name "Xinchen Wang"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
-  employer         : "Harbin Institute of Technology (Shenzhen)"
+  employer         : "Harbin Institute of Technology"
   uri              : # URL
   email            : "200111115@stu.hit.edu.cn" 
 
@@ -46,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Eshe0922"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
