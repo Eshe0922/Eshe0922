@@ -19,7 +19,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3696630.3728557)] </span>
 
-   ![AEGIS](_pages/work_pictures/AEGIS.png)
+  <div style="text-align: center;">
+  <img src="_pages/work_pictures/AEGIS.png" alt="AEGIS" style="width: 80%; height: auto;">
+</div>
 
 - &nbsp; <span class="badge">SIGIR'25</span> &nbsp;**Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark**
 
@@ -31,7 +33,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:16px;"> [[code](https://github.com/kinesiatricssxilm14/CodeRepoQA)] </span>
 
    <!-- ![CodeRepoQA](_pages/work_pictures/CodeRepoQA.png) -->
-   <img src="_pages/work_pictures/CodeRepoQA.png" alt="CodeRepoQA" style="width: 50%; height: auto;">
+  <div style="text-align: center;">
+    <img src="_pages/work_pictures/CodeRepoQA.png" alt="CodeRepoQA" style="width: 80%; height: auto;">
+  </div>
 
 
 
@@ -47,7 +51,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3639478.3647634)] </span>
   <span style="font-size:16px;"> [[code](https://github.com/Eshe0922/ReposVul)] </span>
 
-   ![ReposVul](_pages/work_pictures/ReposVul.png)
+  <div style="text-align: center;">
+  <img src="_pages/work_pictures/ReposVul.png" alt="ReposVul" style="width: 80%; height: auto;">
+</div>
 
 
 - &nbsp; <span class="badge">ASE'23</span> &nbsp;**When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection**
@@ -59,7 +65,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1109/ASE56229.2023.00144)] </span>
   <span style="font-size:16px;"> [[code](https://github.com/Eshe0922/PILOT)] </span>
 
-   ![PILOT](_pages/work_pictures/PILOT.png)
+  <div style="text-align: center;">
+  <img src="_pages/work_pictures/PILOT.png" alt="PILOT" style="width: 80%; height: auto;">
+</div>
 
 
 
@@ -102,11 +110,12 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 <!-- # 🛡️ Patents -->
 
-<div style="width:250px; height:250px; margin: 0 auto;">
+<div style="width:250px; height:250px; margin: 100px auto 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=q2JzOPhOKNVDTcWqhjuK31MXWoRvASR8nNMnhDoqRXo"></script>
 </div>
 
 
-<img src="https://count.getloli.com/@Eshe0922?name=Eshe0922&theme=booru-mjg&padding=14&offset=0&align=bottom&scale=1&pixelated=1&darkmode=1"/>
+
+<!-- <img src="https://count.getloli.com/@Eshe0922?name=Eshe0922&theme=booru-mjg&padding=14&offset=0&align=bottom&scale=1&pixelated=1&darkmode=1"/> -->
 
 
