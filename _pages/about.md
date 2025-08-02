@@ -19,7 +19,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1145/3696630.3728557)] </span>
 
-   ![AEGIS](work_pictures/AEGIS.png)
+   ![AEGIS](./work_pictures/AEGIS.png)
 
 - &nbsp; <span class="badge">SIGIR'25</span> &nbsp;**Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark**
 
@@ -30,7 +30,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1145/3726302.3730262)] </span>
   <span style="font-size:14px;"> [[code](https://github.com/kinesiatricssxilm14/CodeRepoQA)] </span>
 
-   ![CodeRepoQA](work_pictures/CodeRepoQA.png)
+   ![CodeRepoQA](_pages/work_pictures/CodeRepoQA.png)
 
 
 - &nbsp; <span class="badge">ICSE'24 Industry</span> &nbsp;**ReposVul: A Repository-Level High-Quality Vulnerability Dataset**
@@ -44,7 +44,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1145/3639478.3647634)] </span>
   <span style="font-size:14px;"> [[code](https://github.com/Eshe0922/ReposVul)] </span>
 
-   ![ReposVul](work_pictures/ReposVul.png)
+   ![ReposVul](Eshe0922/_pages/work_pictures/ReposVul.png)
 
 
 - &nbsp; <span class="badge">ASE'23</span> &nbsp;**When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection**
@@ -56,7 +56,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1109/ASE56229.2023.00144)] </span>
   <span style="font-size:14px;"> [[code](https://github.com/Eshe0922/PILOT)] </span>
 
-   ![PILOT](work_pictures/PILOT.png)
+   ![PILOT](PILOT.png)
 
 
 
@@ -99,5 +99,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 <!-- # 🛡️ Patents -->
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=q2JzOPhOKNVDTcWqhjuK31MXWoRvASR8nNMnhDoqRXo"></script>
+<div style="width:250px; height:250px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=q2JzOPhOKNVDTcWqhjuK31MXWoRvASR8nNMnhDoqRXo"></script>
+</div>
 
