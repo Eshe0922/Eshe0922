@@ -30,12 +30,15 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3726302.3730262)] </span>
   <span style="font-size:16px;"> [[code](https://github.com/kinesiatricssxilm14/CodeRepoQA)] </span>
 
-   ![CodeRepoQA](_pages/work_pictures/CodeRepoQA.png)
+   <!-- ![CodeRepoQA](_pages/work_pictures/CodeRepoQA.png) -->
+   <img src="_pages/work_pictures/CodeRepoQA.png" alt="CodeRepoQA" style="width: 50%; height: auto;">
+
 
 
 - &nbsp; <span class="badge">ICSE'24 Industry</span> &nbsp;**ReposVul: A Repository-Level High-Quality Vulnerability Dataset**
 
   <span style="font-size:16px;"> <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, Yujia Chen, Qing Liao.</span>
+  
   <span style="color: orange;"> 🏆 Best Paper Award of the Track </span>
 
   <span style="font-size:16px;"> *The IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track.* </span>
@@ -102,4 +105,8 @@ I am a master's student in the School of Computer Science and Technology at Harb
 <div style="width:250px; height:250px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=q2JzOPhOKNVDTcWqhjuK31MXWoRvASR8nNMnhDoqRXo"></script>
 </div>
+
+
+<img src="https://count.getloli.com/@Eshe0922?name=Eshe0922&theme=booru-mjg&padding=14&offset=0&align=bottom&scale=1&pixelated=1&darkmode=1"/>
+
 
