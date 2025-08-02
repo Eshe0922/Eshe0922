@@ -13,50 +13,50 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 - &nbsp; <span class="badge">FSE'25 Industry</span> &nbsp;**AEGIS: An Agent-based Framework for Bug Reproduction from Issue Descriptions**
 
-  <span style="font-size:14px;"> <strong><em>Xinchen Wang</em></strong>, Pengfei Gao, Xiangxin Meng, Chao Peng, Ruida Hu, Yun Lin, Cuiyun Gao*.</span>
+  <span style="font-size:16px;"> <strong><em>Xinchen Wang</em></strong>, Pengfei Gao, Xiangxin Meng, Chao Peng, Ruida Hu, Yun Lin, Cuiyun Gao*.</span>
 
-  <span style="font-size:14px;"> *The ACM International Conference on the Foundations of Software Engineering (FSE), Industry Track.* </span>
+  <span style="font-size:16px;"> *The ACM International Conference on the Foundations of Software Engineering (FSE), Industry Track.* </span>
 
-  <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1145/3696630.3728557)] </span>
+  <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3696630.3728557)] </span>
 
-   ![AEGIS](./work_pictures/AEGIS.png)
+   ![AEGIS](_pages/work_pictures/AEGIS.png)
 
 - &nbsp; <span class="badge">SIGIR'25</span> &nbsp;**Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark**
 
-  <span style="font-size:14px;"> Ruida Hu, Chao Peng, Jingyi Ren, Bo Jiang, Xiangxin Meng, Qinyun Wu, Pengfei Gao,  <strong><em>Xinchen Wang</em></strong>, Cuiyun Gao*. </span>
+  <span style="font-size:16px;"> Ruida Hu, Chao Peng, Jingyi Ren, Bo Jiang, Xiangxin Meng, Qinyun Wu, Pengfei Gao,  <strong><em>Xinchen Wang</em></strong>, Cuiyun Gao*. </span>
 
-  <span style="font-size:14px;"> *The International ACM SIGIR Conference on Research and Development in Information Retrieval.* </span>
+  <span style="font-size:16px;"> *The International ACM SIGIR Conference on Research and Development in Information Retrieval.* </span>
 
-  <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1145/3726302.3730262)] </span>
-  <span style="font-size:14px;"> [[code](https://github.com/kinesiatricssxilm14/CodeRepoQA)] </span>
+  <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3726302.3730262)] </span>
+  <span style="font-size:16px;"> [[code](https://github.com/kinesiatricssxilm14/CodeRepoQA)] </span>
 
    ![CodeRepoQA](_pages/work_pictures/CodeRepoQA.png)
 
 
 - &nbsp; <span class="badge">ICSE'24 Industry</span> &nbsp;**ReposVul: A Repository-Level High-Quality Vulnerability Dataset**
 
-  <span style="font-size:14px;"> <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, Yujia Chen, Qing Liao.</span>
-
-  <span style="font-size:14px;"> *The IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track.* </span>
-
+  <span style="font-size:16px;"> <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, Yujia Chen, Qing Liao.</span>
   <span style="color: orange;"> 🏆 Best Paper Award of the Track </span>
 
-  <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1145/3639478.3647634)] </span>
-  <span style="font-size:14px;"> [[code](https://github.com/Eshe0922/ReposVul)] </span>
+  <span style="font-size:16px;"> *The IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track.* </span>
 
-   ![ReposVul](Eshe0922/_pages/work_pictures/ReposVul.png)
+
+  <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3639478.3647634)] </span>
+  <span style="font-size:16px;"> [[code](https://github.com/Eshe0922/ReposVul)] </span>
+
+   ![ReposVul](_pages/work_pictures/ReposVul.png)
 
 
 - &nbsp; <span class="badge">ASE'23</span> &nbsp;**When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection**
 
-  <span style="font-size:14px;"> Xin-Cheng Wen, <strong><em>Xinchen Wang</em></strong>, Cuiyun Gao*, Shaohua Wang, Yang Liu, Zhaoquan Gu.</span>
+  <span style="font-size:16px;"> Xin-Cheng Wen, <strong><em>Xinchen Wang</em></strong>, Cuiyun Gao*, Shaohua Wang, Yang Liu, Zhaoquan Gu.</span>
 
-  <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering.* </span>
+  <span style="font-size:16px;"> *The IEEE/ACM International Conference on Automated Software Engineering.* </span>
 
-  <span style="font-size:14px;"> [[paper](https://dl.acm.org/doi/10.1109/ASE56229.2023.00144)] </span>
-  <span style="font-size:14px;"> [[code](https://github.com/Eshe0922/PILOT)] </span>
+  <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1109/ASE56229.2023.00144)] </span>
+  <span style="font-size:16px;"> [[code](https://github.com/Eshe0922/PILOT)] </span>
 
-   ![PILOT](PILOT.png)
+   ![PILOT](_pages/work_pictures/PILOT.png)
 
 
 
@@ -64,15 +64,15 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 - **Marscode agent: Ai-native automated bug fixing**
 
-  <span style="font-size:14px;"> Yizhou Liu, Pengfei Gao, <strong><em>Xinchen Wang</em></strong>, Jie Liu, Yexuan Shi, Zhao Zhang, Chao Peng.</span>
+  <span style="font-size:16px;"> Yizhou Liu, Pengfei Gao, <strong><em>Xinchen Wang</em></strong>, Jie Liu, Yexuan Shi, Zhao Zhang, Chao Peng.</span>
 
-  <span style="font-size:14px;"> [[paper](https://arxiv.org/abs/2409.00899)] </span>
+  <span style="font-size:16px;"> [[paper](https://arxiv.org/abs/2409.00899)] </span>
 
 - **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling**
 
-  <span style="font-size:14px;"> Trae Research Team: Pengfei Gao, Zhao Tian, Xiangxin Meng, <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Yuanan Xiao, Yizhou Liu, Zhao Zhang, Junjie Chen, Cuiyun Gao, Yun Lin, Yingfei Xiong, Chao Peng, Xia Liu. </span>
+  <span style="font-size:16px;"> Trae Research Team: Pengfei Gao, Zhao Tian, Xiangxin Meng, <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Yuanan Xiao, Yizhou Liu, Zhao Zhang, Junjie Chen, Cuiyun Gao, Yun Lin, Yingfei Xiong, Chao Peng, Xia Liu. </span>
 
-  <span style="font-size:14px;"> [[paper](https://arxiv.org/abs/2507.23370)] </span>
+  <span style="font-size:16px;"> [[paper](https://arxiv.org/abs/2507.23370)] </span>
 
 
 # 🏆 Honors and Awards
@@ -99,7 +99,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 <!-- # 🛡️ Patents -->
 
-<div style="width:250px; height:250px;">
+<div style="width:250px; height:250px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=q2JzOPhOKNVDTcWqhjuK31MXWoRvASR8nNMnhDoqRXo"></script>
 </div>
 
