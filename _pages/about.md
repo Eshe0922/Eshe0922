@@ -20,8 +20,8 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3696630.3728557)] </span>
 
   <div style="text-align: center;">
-  <img src="_pages/work_pictures/AEGIS.png" alt="AEGIS" style="width: 80%; height: auto;">
-</div>
+    <img src="_pages/work_pictures/AEGIS.png" alt="AEGIS" style="width: 80%; height: auto;">
+  </div>
 
 - &nbsp; <span class="badge">SIGIR'25</span> &nbsp;**Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark**
 
@@ -43,17 +43,16 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:16px;"> <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, Yujia Chen, Qing Liao.</span>
   
-  <span style="color: orange;"> 🏆 Best Paper Award of the Track </span>
-
   <span style="font-size:16px;"> *The IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track.* </span>
 
 
   <span style="font-size:16px;"> [[paper](https://dl.acm.org/doi/10.1145/3639478.3647634)] </span>
-  <span style="font-size:16px;"> [[code](https://github.com/Eshe0922/ReposVul)] </span>
+  <span style="font-size:16px;"> [[code](https://github.com/Eshe0922/ReposVul)] </span> 
+  <span style="color: orange; font-size:16px;"> 🏆 Best Paper Award of the Track </span>
 
   <div style="text-align: center;">
-  <img src="_pages/work_pictures/ReposVul.png" alt="ReposVul" style="width: 80%; height: auto;">
-</div>
+    <img src="_pages/work_pictures/ReposVul.png" alt="ReposVul" style="width: 80%; height: auto;">
+  </div>
 
 
 - &nbsp; <span class="badge">ASE'23</span> &nbsp;**When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection**
@@ -66,8 +65,8 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:16px;"> [[code](https://github.com/Eshe0922/PILOT)] </span>
 
   <div style="text-align: center;">
-  <img src="_pages/work_pictures/PILOT.png" alt="PILOT" style="width: 80%; height: auto;">
-</div>
+    <img src="_pages/work_pictures/PILOT.png" alt="PILOT" style="width: 80%; height: auto;">
+  </div>
 
 
 
