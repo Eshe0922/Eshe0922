@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. I have the privilege of being advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I received my Bachelor’s degree from Harbin Institute of Technology, Shenzhen. My research interests primarily focus on Artificial Intelligence for Software Engineering (AI4SE).
+I am a master's student in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. I have the privilege of being advised by Prof. <a href="https://cuiyungao.github.io/">Cuiyun Gao</a>. I received my Bachelor’s degree from Harbin Institute of Technology, Shenzhen. My research interests primarily focus on Artificial Intelligence for Software Engineering (AI4SE) and Code Intelligence.
 
 # 📝 Publications
 
@@ -19,7 +19,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:16px;"> *The ACM International Conference on the Foundations of Software Engineering (FSE), Industry Track.* </span>
 
-  <a href='https://dl.acm.org/doi/10.1145/3696630.3728557'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
+  <div align="right">
+    <a href='https://dl.acm.org/doi/10.1145/3696630.3728557'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
+  </div>
 
   <div style="text-align: center;">
     <img src="_pages/work_pictures/AEGIS.png" alt="AEGIS" style="width: 70%; height: auto;">
@@ -33,8 +35,10 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:16px;"> *The International ACM SIGIR Conference on Research and Development in Information Retrieval.* </span>
   
-  <a href='https://dl.acm.org/doi/10.1145/3726302.3730262'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
-  <a href='https://github.com/kinesiatricssxilm14/CodeRepoQA'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
+  <div align="right">
+    <a href='https://dl.acm.org/doi/10.1145/3726302.3730262'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
+    <a href='https://github.com/kinesiatricssxilm14/CodeRepoQA'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
+  </div>
 
   <div style="text-align: center;">
     <img src="_pages/work_pictures/CodeRepoQA.png" alt="CodeRepoQA" style="width: 70%; height: auto;">
@@ -47,11 +51,17 @@ I am a master's student in the School of Computer Science and Technology at Harb
   <span style="font-size:16px;"> <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, Yujia Chen, Qing Liao.</span>
   
   <span style="font-size:16px;"> *The IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track.* </span>
-  
-  <a href='https://dl.acm.org/doi/10.1145/3639478.3647634'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
-  <a href='https://github.com/Eshe0922/ReposVul'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
 
   <span style="color: orange; font-size:16px;"> 🏆 Best Paper Award of the Track </span>
+
+  <div align="right">
+    <a href='https://dl.acm.org/doi/10.1145/3639478.3647634'>
+      <img src='https://img.shields.io/badge/Paper-8A2BE2'>
+    </a>
+    <a href='https://github.com/Eshe0922/ReposVul'>
+      <img src='https://img.shields.io/badge/Code-FFC0CB'>
+    </a>
+  </div>
 
   <div style="text-align: center;">
     <img src="_pages/work_pictures/ReposVul.png" alt="ReposVul" style="width: 70%; height: auto;">
@@ -65,8 +75,10 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:16px;"> *The IEEE/ACM International Conference on Automated Software Engineering.* </span>
 
-  <a href='https://dl.acm.org/doi/10.1109/ASE56229.2023.00144'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
-  <a href='https://github.com/Eshe0922/PILOT'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
+  <div align="right">
+    <a href='https://dl.acm.org/doi/10.1109/ASE56229.2023.00144'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
+    <a href='https://github.com/Eshe0922/PILOT'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
+  </div>
 
   <div style="text-align: center;">
     <img src="_pages/work_pictures/PILOT.png" alt="PILOT" style="width: 70%; height: auto;">
@@ -82,7 +94,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:16px;"> Yizhou Liu, Pengfei Gao, <strong><em>Xinchen Wang</em></strong>, Jie Liu, Yexuan Shi, Zhao Zhang, Chao Peng.</span>
 
-  <a href='https://arxiv.org/abs/2409.00899'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
+  <div align="right">
+    <a href='https://arxiv.org/abs/2409.00899'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
+  </div>
 
 ---
 
@@ -90,8 +104,10 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
   <span style="font-size:16px;"> Trae Research Team: Pengfei Gao, Zhao Tian, Xiangxin Meng, <strong><em>Xinchen Wang</em></strong>, Ruida Hu, Yuanan Xiao, Yizhou Liu, Zhao Zhang, Junjie Chen, Cuiyun Gao, Yun Lin, Yingfei Xiong, Chao Peng, Xia Liu. </span>
 
-  <a href='https://arxiv.org/abs/2507.23370'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
-  <a href='https://github.com/bytedance/trae-agent'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
+  <div align="right">
+    <a href='https://arxiv.org/abs/2507.23370'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
+    <a href='https://github.com/bytedance/trae-agent'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
+  </div>
 
 ---
 
@@ -99,9 +115,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 ---
 
-- National Scholarship
-- Fang Binxing Scholarship
-- Gongjin Scholarship
+- **National Scholarship**
+- **Fang Binxing Scholarship**
+- **Gongjin Scholarship**
 - Master's Special Scholarship, HIT
 - First-Class Academic Scholarship ×3, HIT
 - Member of the Model Student Database, HIT
@@ -115,7 +131,7 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 ---
 
-- *2024.06 - now*,  Trae Research, ByteDance, China.
+- *2024.06 - now*,  **Trae Research**, ByteDance, China. Working with <a href="https://chao-peng.github.io/">Chao Peng</a> and <a href="https://cumt-gpf.github.io/">Pengfei Gao</a>. 
 
 ---
 
@@ -123,8 +139,8 @@ I am a master's student in the School of Computer Science and Technology at Harb
 
 ---
 
-- *2024.09 – now*, M.Eng. in Computer Science and Technology, Harbin Institute of Technology, Shenzhen
-- *2020.09 – 2024.06*, B.Eng. in Computer Science and Technology, Harbin Institute of Technology, Shenzhen
+- *2024.09 – now*, M.Eng. in Computer Science and Technology, **Harbin Institute of Technology, Shenzhen**
+- *2020.09 – 2024.06*, B.Eng. in Computer Science and Technology, **Harbin Institute of Technology, Shenzhen**
 
 <!-- # 🛡️ Patents -->
 ---
