@@ -98,6 +98,10 @@ I am a master's student in the School of Computer Science and Technology at Harb
     <a href='https://arxiv.org/abs/2409.00899'><img src='https://img.shields.io/badge/Paper-8A2BE2'></a>
   </div>
 
+  <div style="text-align: center;">
+    <img src="_pages/work_pictures/MarscodeAgent.png" alt="MarscodeAgent" style="width: 50%; height: auto;">
+  </div>
+
 ---
 
 - &nbsp; <span class="badge">arXiv</span> &nbsp; **Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling**
@@ -109,6 +113,9 @@ I am a master's student in the School of Computer Science and Technology at Harb
     <a href='https://github.com/bytedance/trae-agent'><img src='https://img.shields.io/badge/Code-FFC0CB'></a>
   </div>
 
+  <div style="text-align: center;">
+    <img src="_pages/work_pictures/TraeAgent.png" alt="TraeAgent" style="width: 70%; height: auto;">
+  </div>
 ---
 
 # 🏆 Honors and Awards
